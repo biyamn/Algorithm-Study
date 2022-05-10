@@ -1,8 +1,11 @@
 # Top K Frequent Elements
 
 level: #Medium
+
 문제url: https://leetcode.com/problems/top-k-frequent-elements/
+
 완료 여부: O
+
 푼 날짜: 2022.5.10
 
 # 문제

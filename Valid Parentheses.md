@@ -1,8 +1,11 @@
 # Valid Parentheses
 
 level: #EASY
+
 문제url: https://leetcode.com/problems/valid-parentheses/
+
 완료 여부: O
+
 푼 날짜: 2022.5.14
 
 # 문제

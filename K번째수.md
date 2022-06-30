@@ -1,8 +1,11 @@
 # K번째수
 
 level: #1
+
 문제url: https://programmers.co.kr/learn/courses/30/lessons/42748
+
 완료 여부: O
+
 푼 날짜: 2022.6.30
 
 # 문제

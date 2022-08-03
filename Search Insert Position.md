@@ -1,7 +1,9 @@
 # Search Insert Position
 
 level: #EASY
+
 문제url: https://leetcode.com/problems/search-insert-position/
+
 푼 날짜: 2022.8.2
 
 # 문제

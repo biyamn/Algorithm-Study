@@ -6,7 +6,8 @@
 
 # 문제
 
-![%EC%BA%A1%EC%B2%98](https://user-images.githubusercontent.com/101965666/192219072-5176f61a-37a3-4bba-8ae9-17b17c8dd92f.png)
+<img src="강의문제Image\k번째 큰 수.png" alt="k번째 큰 수 이미지">
+
 
 # 내 풀이
 
